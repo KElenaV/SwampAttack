@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43f85aab-1279-4cb5-b8d0-76ce54f1ea70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/Transitions/GoblinTakeDamageTransition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/MinotaurTransition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinWalkState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ProgressBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinJumpState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BAE255E3-E08E-46F7-BC2F-BD23DDE96338/66/0feb3e3f/UnityAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/Transitions/GoblinTargetDiedTransition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MouseHover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MoneyBalance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinStayState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/NextWave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/States/MinotaurMoveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/Transitions/MinotaurPlayerDiedTransition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/CurrentWeaponIcon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Bar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/States/MinotaurAttackState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/States/MinotaurCelebrateState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/GoblinState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon/Pistol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinDetonateState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BAE255E3-E08E-46F7-BC2F-BD23DDE96338/e2/75c83547/WaitForSeconds.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon/Shotgun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/MinotaurTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/MinotaurState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/Transitions/MinotaurPlayerDiedTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/States/MinotaurCelebrateState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/MinotaurStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/Transitions/GoblinTargetDiedTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/GoblinStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinJumpStay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinJumpState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/Transitions/GoblinTakeDamageTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/GoblinTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinWalkState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/GoblinState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinStayState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Wave.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/States/GoblinDetonateState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/Transitions/GoblinDistanceTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/NextWave.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/States/MinotaurMoveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Bar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CurrentWeaponIcon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponCard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon/Gun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon/Pistol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MoneyBalance.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ProgressBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/Transitions/MinotaurDistanceTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Minotaur/StateMachine/States/MinotaurAttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Goblin/StateMachine/Transitions/GoblinGroundedTransition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MouseHover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapon/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Shop.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KXCTG46OiSxMNwjSobaDsPFtjr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502658" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005908" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43f85aab-1279-4cb5-b8d0-76ce54f1ea70" name="Default Changelist" comment="" />
+      <created>1674111550834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674111550834</updated>
+      <workItem from="1674111555535" duration="1719000" />
+      <workItem from="1674130983779" duration="74000" />
+      <workItem from="1674213578929" duration="4922000" />
+      <workItem from="1674468336272" duration="5985000" />
+      <workItem from="1674493901810" duration="2032000" />
+      <workItem from="1674505903758" duration="759000" />
+      <workItem from="1674541250501" duration="10247000" />
+      <workItem from="1674629806411" duration="6041000" />
+      <workItem from="1674665384823" duration="758000" />
+      <workItem from="1674725793704" duration="3213000" />
+      <workItem from="1674983345388" duration="12922000" />
+      <workItem from="1675090715206" duration="3947000" />
+      <workItem from="1675159164350" duration="3239000" />
+      <workItem from="1675190144310" duration="1534000" />
+      <workItem from="1675249769578" duration="2476000" />
+      <workItem from="1675255141956" duration="1494000" />
+      <workItem from="1675260198246" duration="2756000" />
+      <workItem from="1675338979066" duration="4897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="1724" height="186" key="GridCell.Tab.0.bottom" timestamp="1674642992734">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992734" />
+    <state width="1724" height="186" key="GridCell.Tab.0.center" timestamp="1674642992733">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992733" />
+    <state width="1724" height="186" key="GridCell.Tab.0.left" timestamp="1674642992733">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992733" />
+    <state width="1724" height="186" key="GridCell.Tab.0.right" timestamp="1674642992734">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992734" />
+    <state width="1724" height="186" key="GridCell.Tab.1.bottom" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.1.center" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.1.left" timestamp="1674642992734">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992734" />
+    <state width="1724" height="186" key="GridCell.Tab.1.right" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.2.bottom" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.2.center" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.2.left" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.2.right" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.3.bottom" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.3.center" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.3.left" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state width="1724" height="186" key="GridCell.Tab.3.right" timestamp="1674642992735">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1724" height="186" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1674642992735" />
+    <state x="1224" y="783" key="RiderGenerateDialog" timestamp="1675274628149">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1224" y="783" key="RiderGenerateDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1675274628149" />
+  </component>
+</project>

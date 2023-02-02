@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 29e2c5e15d8f6d84bb52e873f7fce154
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c820169839494724a8f41492c31c4497
+      internalID: -1424351991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9b714159753f40ad619f9104537fe
+      internalID: 2088874840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tileset_3: -1013331700
+      Tileset_47: 294553842
+      Tileset_27: -364746457
+      Tileset_17: -1246444126
+      Tileset_18: -99298302
+      Tileset_13: 641997121
+      Tileset_25: -1389391410
+      Tileset_67: -1810552979
+      Tileset_10: 595548136
+      Tileset_45: 1922815219
+      Tileset_31: 1431186314
+      Tileset_55: -1076031366
+      Tileset_14: 1122755925
+      Tileset_23: -1535769269
+      Tileset_1: 2088874840
+      Tileset_66: 160124276
+      Tileset_5: -795984313
+      Tileset_63: 1746923436
+      Tileset_46: 1798613427
+      Tileset_26: 2117504859
+      Tileset_33: -438794591
+      Tileset_48: 1011353833
+      Tileset_49: -1680187087
+      Tileset_15: 1390506577
+      Tileset_20: -1828932936
+      Tileset_54: 1444077398
+      Tileset_51: -765951827
+      Tileset_32: -1853194334
+      Tileset_22: 1248291175
+      Tileset_9: 545664221
+      Tileset_34: -352710822
+      Tileset_39: 597950664
+      Tileset_41: -752956690
+      Tileset_0: -1424351991
+      Tileset_7: 289623117
+      Tileset_12: 1932068307
+      Tileset_64: 411741298
+      Tileset_4: -1372773438
+      Tileset_57: -1688661778
+      Tileset_42: -703705390
+      Tileset_61: -2020640102
+      Tileset_37: -735819
+      Tileset_56: -1781226286
+      Tileset_60: -1556323867
+      Tileset_50: -1886010430
+      Tileset_28: -1743164365
+      Tileset_11: 2108716959
+      Tileset_52: -384412922
+      Tileset_19: -387598323
+      Tileset_16: 1621649715
+      Tileset_35: 1477120410
+      Tileset_2: -1833353305
+      Tileset_40: -1234871075
+      Tileset_53: -2082413516
+      Tileset_29: 405156266
+      Tileset_59: 1373221103
+      Tileset_6: 1312366576
+      Tileset_43: -541442821
+      Tileset_58: -957138988
+      Tileset_38: -1138227693
+      Tileset_8: 885847345
+      Tileset_24: 167938147
+      Tileset_36: -456274933
+      Tileset_65: 1277600858
+      Tileset_62: 1632024097
+      Tileset_21: -2127770315
+      Tileset_30: 1515971631
+      Tileset_44: -1624043801
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
